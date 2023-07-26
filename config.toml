@@ -1,0 +1,35 @@
+baseURL = 'https://sabrinahorsemanship.de/'
+languageCode = 'de-DE'
+title = 'Sabrina Horsemanship'
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Copyright
+copyright = "&copy;2023 Sabrina Föder"
+
+[markup.goldmark.renderer]
+# @see https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032/2
+unsafe= true
+
+[params]
+
+    # Metadata for search engines and social sharing
+    author = "Sabrina Föder"
+    description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+    shareImage = "images/social.jpg"
+    twitterHandle = "sabrinatxt"
+
+    # Favicon
+    favicon = "favicon.ico"
+
+    [params.custom.css]
+        enable = true
+
+# Section - Visual
+    [params.visual]
+
+        # Image
+        [params.visual.image]
+        enable = true
+        file = "images/sabrina-horsemanship_pro-pferd-training_sitzschulung.jpg"
+        position = "center center"
