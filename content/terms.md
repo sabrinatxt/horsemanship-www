@@ -65,8 +65,8 @@ Hufschmied, Tierarzt, Medikamente und sonstige Nebenleistungen (z.B. Betreuung d
 Dienstleistungsvereinbarungen werden nach individueller Absprache getroffen und geregelt. Auch konkludentes Handeln zu bestehenden mündlichen und/oder schriftlichen Vereinbarungen gilt als Vertragsabschluss (z.B.: Überweisung der Kurs- oder Reitunterrichtsgebühr, Terminvereinbarungen, Anlieferung des Pferdes, etc.). Die Absprache ist mündlich und schriftlich gleichermaßen geltend. Sie unterliegt ebenfalls dieser AGB. Rechnungen werden bei Absprache per Vorkasse oder sofort nach Leistungserbringung gestellt und sind in angegebenem Zeitraum in voller Höhe zu bezahlen.
 
 ### 4.4 Rechnungsbeträge
-Rechnungsbeträge sind auf folgendes Konto von Sabrina Föder einzuzahlen:
-DE12 6009 0100 0867 2140 15 BIC: VOBADESS, Volksbank Stuttgart.
+Rechnungsbeträge sind auf folgendes Konto von Sabrina Föder einzuzahlen:\
+`DE12 6009 0100 0867 2140 15` BIC: `VOBADESS`, _Volksbank Stuttgart_.
 
 ## § 5 Termin- / Programmänderungen, Ausfall
 5.1 Bei zu geringer Teilnehmerzahl und aus anderen dringenden Gründen, kann Sabrina Föder Horsemanship die Veranstaltung verschieben, absagen oder mit anderen Veranstaltungen zusammenlegen. Dem Teilnehmenden steht in diesem Falle ein Rücktrittsrecht zu. Weitergehende Ansprüche, insbesondere auf Aufwendungsersatz (Stornogebühren für gebuchte Anreise oder Hotel), bestehen nicht.
