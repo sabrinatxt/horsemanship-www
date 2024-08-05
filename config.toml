@@ -1,4 +1,4 @@
-baseURL = 'https://sabrinahorsemanship.de/'
+baseURL = 'https://sabrina-horsemanship.de/'
 languageCode = 'de-DE'
 title = 'Sabrina Horsemanship'
 theme = "hugo-split-theme"
