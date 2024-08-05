@@ -1,5 +1,6 @@
 +++
 title = "Impressum"
+visual.image.enable = false
 image = "none"
 +++
 

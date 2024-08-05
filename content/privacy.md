@@ -1,5 +1,6 @@
 +++
 title = "Datenschutzerklärung"
+visual.image.enable = false
 image = "none"
 +++
 

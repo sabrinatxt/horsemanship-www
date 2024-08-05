@@ -1,5 +1,6 @@
 +++
 title = "Allgemeine Geschäftsbedingungen"
+visual.image.enable = false
 image = "none"
 +++
 
